@@ -10,6 +10,7 @@ nav:
   - Service Support Policy: 'policies/support.md'
   - Service Update Policy: 'policies/update.md'
   - Service Availability Policy: 'policies/availability.md'
+  - Shared Responsibility Policy: 'policies/shared.md'
 theme: 
   name: material
   palette:
